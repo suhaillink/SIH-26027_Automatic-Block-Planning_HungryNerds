@@ -957,31 +957,7 @@ The project research includes resources related to:
 
 ---
 
-## 👥 Contributors & Team
 
-<div align="center">
-
-### 🚆 HungryNerds
-
-**Smart India Hackathon 2026**
-
-**Problem Statement ID: SIH-26027**
-
-**AI-Powered Automatic Block Planning to Maximize Asset Availability for Train Operations on Indian Railways**
-
-### 🇮🇳 Building Smarter & Safer Railway Operations
-
-</div>
-
----
-
-## 📄 License
-
-This project is developed as a **Smart India Hackathon 2026 prototype** by Team HungryNerds.
-
----
-
-<div align="center">
 
 # 🚆 Fewer Blocks. Better Planning. Greater Asset Availability.
 
